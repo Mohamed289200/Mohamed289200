@@ -1,9 +1,6 @@
 ### Hello World 👋
-I’m a student in the computer and systeams in the faculty of engineering at Zagazig University. I strive to be a programming geek.
-The most proverb that I love it is  " Es ist noch kein meister vom himmel gefallen" ,these proverb is in German
-I learned the German language and I am very good at it whether speaking, writing and listening.
-
-Although, technically I’m beginning of the road through to begin my career journey, but I hope reach to mid-way by the end of this year. 
+I’m a Graduate from the computer and systeams in the faculty of engineering at Zagazig University. I strive to be a programming geek.
+, I thrive at the intersection of development and operations, bringing a strategic approach to cloud infrastructure management and automation. My background in , Linux, and DevOps has equipped me with a strong foundation in networking, system administration, and continuous integration/deployment practices
 
 I’m currently self-developing and looking for opportunities to implement, learn and improve.
 <p align="left"> 
