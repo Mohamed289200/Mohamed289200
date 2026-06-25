@@ -1,7 +1,5 @@
 ### Hello World 👋
-I’m a Graduate from the computer and systeams in the faculty of engineering at Zagazig University. I strive to be a programming geek.
-, I thrive at the intersection of development and operations, bringing a strategic approach to cloud infrastructure management and automation. My background in , Linux, and DevOps has equipped me with a strong foundation in networking, system administration, and continuous integration/deployment practices
-
+DevOps Engineer with hands-on experience in CI/CD, cloud technologies, and automation, supported by training at the National Telecommunication Institute (NTI). Skilled in OpenShift, GitHub Actions ,AWS,  Docker, and Microsoft Azure for building scalable and reliable Node.js deployments. Strong background in Linux Administration(I-II), system operations, and troubleshooting. Passionate about automation, cloud infrastructure, and delivering high-quality software in collaborative environments.
 I’m currently self-developing and looking for opportunities to implement, learn and improve.
 <p align="left"> 
   <img align='right' src='https://media1.tenor.com/images/763645168fe913c18e4d52385e91cccc/tenor.gif?itemid=11550101' height = "200" width="250" >
