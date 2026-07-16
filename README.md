@@ -7,8 +7,8 @@ I’m currently self-developing and looking for opportunities to implement, lear
 <p align="center">
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaild22k12m71f@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-mahmoud-/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedabd092002@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230177B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-abd-elhamed-78a128254/)
 
 
 </a>
